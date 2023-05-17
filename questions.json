@@ -3,7 +3,7 @@
     {
       "id": 1,
       "text": "I believe that getting together with one’s friends to party is one of life’s important pleasures.",
-      "category": "Present Hedonistic",
+      "category": "Past Negative",
       "reversed": false
     },
     {
@@ -15,7 +15,7 @@
     {
       "id": 3,
       "text": "Fate determines much in my life.",
-      "category": "Present Negative",
+      "category": "Present Hedonistic",
       "reversed": false
     },
     {
