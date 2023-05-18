@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Věřím, že scházení se s přáteli na večírcích a oslavách patří k důležitým životním radostem.",
+      "category": "Hedonistická přítomnost",
+      "reversed": false
+    },
+    {
+      "id": 2,
+      "text": "Pohledy, zvuky a vůně důvěrně známé z dětství ve mně často vyvolávají spoustu nádherných vzpomínek.",
+      "category": "Pozitivní minulost",
+      "reversed": false
+    },
+    {
+      "id": 3,
+      "text": "Mnohé v mém životě určuje osud.",
+      "category": "Fatalistická přítomnost",
+      "reversed": false
+    },
+    {
+      "id": 4,
+      "text": "Často myslím na to, co jsem měl v životě udělat jinak.",
+      "category": "Negativní minulost",
+      "reversed": false
+    },
+    {
+      "id": 5,
+      "text": "Věřím, že člověk by si měl každé ráno předem naplánovat svůj nastávající den.",
+      "category": "Budoucnost",
+      "reversed": false
+    }
+  ]
+}
