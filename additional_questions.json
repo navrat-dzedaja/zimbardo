@@ -1,0 +1,152 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Gender",
+      "type": "select",
+      "options": ["Male", "Female", "Other (please specify in the text field)"],
+      "required": true
+    },
+    {
+      "id": 2,
+      "text": "Age",
+      "type": "select",
+      "options": ["0-17", "18-24", "25-34", "35-44", "45-54", "55+"],
+      "required": true
+    },
+    {
+      "id": 3,
+      "text": "Highest education level",
+      "type": "select",
+      "options": [
+        "Basic",
+        "Secondary education (without matriculation)",
+        "Secondary education (with matriculation)",
+        "Higher vocational",
+        "Higher education",
+        "Other (please specify in the text field)"
+      ],
+      "required": true
+    },
+    {
+      "id": 4,
+      "text": "Do you study (nowadays)?",
+      "type": "select",
+      "options": [
+        "Yes, I am studying high school",
+        "Yes, I am studying at university",
+        "No, I am not studying",
+        "Other (please specify in the text field)"
+      ],
+      "required": true
+    },
+    {
+      "id": 5,
+      "text": "What is the name of your high school?",
+      "type": "select",
+      "options": [
+        "Grammar school",
+        "Secondary technical school",
+        "Secondary vocational school",
+        "Other (please specify in the text field)"
+      ],
+      "required": false,
+      "conditional_question": 4,
+      "conditional_option": "Yes, I am studying high school"
+    },
+    {
+      "id": 6,
+      "text": "What is the name of your university?",
+      "type": "select",
+      "options": [
+        "University of South Bohemia",
+        "University of West Bohemia",
+        "Charles University",
+        "Czech Technical University in Prague",
+        "Masaryk University",
+        "Palacký University Olomouc",
+        "University of Ostrava",
+        "University of Pardubice",
+        "University of Veterinary and Pharmaceutical Sciences Brno",
+        "Other (please specify in the text field)"
+      ],
+      "required": false,
+      "conditional_question": 4,
+      "conditional_option": "Yes, I am studying at university"
+    },
+    {
+      "id": 7,
+      "text": "Are you currently employed?",
+      "type": "select",
+      "options": [
+        "Yes, I am employed full time",
+        "Yes, I am employed part-time",
+        "Yes, I have a part-time job during my studies",
+        "No, I am not employed",
+        "Other (please specify in the text field)"
+      ],
+      "required": true
+    },
+    {
+      "id": 8,
+      "text": "In what field are you employed?",
+      "type": "select",
+      "options": [
+        "Agriculture, forestry and fishing",
+        "Mining and quarrying",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply, sewerage, waste management and remediation activities",
+        "Construction",
+        "Wholesale and retail trade, repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Information and communication",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Public administration and defence, compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Other (please specify in the text field)",
+        "I am not employed"
+      ],
+      "required": false,
+      "conditional_question": 7,
+      "conditional_options": [
+        "Yes, I am employed full time",
+        "Yes, I am employed part-time",
+        "Yes, I have a part-time job during my studies"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Marital status",
+      "type": "select",
+      "options": [
+        "Married",
+        "Single without partner",
+        "Single with a partner",
+        "Widower/widow",
+        "Divorced",
+        "Other (please specify in the text field)"
+      ],
+      "required": true
+    },
+    {
+      "id": 10,
+      "text": "Household",
+      "type": "select",
+      "options": [
+        "I live with my parents",
+        "I live alone",
+        "I live with my partner",
+        "Other (please specify in the text field)"
+      ],
+      "required": true
+    }
+  ]
+}
