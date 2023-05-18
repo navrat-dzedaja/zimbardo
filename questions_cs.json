@@ -3,337 +3,337 @@
     {
       "id": 1,
       "text": "Věřím, že scházení se s přáteli na večírcích a oslavách patří k důležitým životním radostem.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 2,
       "text": "Pohledy, zvuky a vůně důvěrně známé z dětství ve mně často vyvolávají spoustu nádherných vzpomínek.",
-      "category": "Past Positive",
+      "category": "Pozitivní minulost",
       "reversed": false
     },
     {
       "id": 3,
       "text": "Mnohé v mém životě určuje osud.",
-      "category": "Present Fatalistic",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 4,
       "text": "Často myslím na to, co jsem měl v životě udělat jinak.",
-      "category": "Present Fatalistic",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 5,
       "text": "Má rozhodnutí jsou většinou ovlivněna lidmi a věcmi v mém okolí.",
-      "category": "Present Fatalistic",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 6,
       "text": "Věřím, že člověk by si měl každé ráno předem naplánovat svůj nastávající den.",
-      "category": "Present Hedonistic",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 7,
       "text": "Moc rád vzpomínám na svou minulost.",
-      "category": "Past Positive",
+      "category": "Pozitivní minulost",
       "reversed": false
     },
     {
       "id": 8,
       "text": "Jednám impulsivně – tj. dělávám věci, které mne právě napadnou.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 9,
       "text": "Nedělám si starosti, když se věci neudělají včas.",
-      "category": "Present Hedonistic",
+      "category": "Budoucnost",
       "reversed": true
     },
     {
       "id": 10,
       "text": "Když chci něčeho dosáhnout, vytyčím si své cíle a rozmyslím si jakými konkrétními prostředky k nim dospět.",
-      "category": "Present Hedonistic",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 11,
       "text": "Zvážím-li svou minulost, vybavuje se mi mnohem víc dobrého než toho špatného.",
-      "category": "Past Positive",
+      "category": "Pozitivní minulost",
       "reversed": false
     },
     {
       "id": 12,
       "text": "Při poslouchání své oblíbené hudby často úplně ztratím pojem o čase.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 13,
       "text": "Řídím se pravidlem „nejdřív práce a potom zábava“",
-      "category": "Present Fatalistic",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 14,
       "text": "Vzhledem k tomu, že co se má stát se stejně stane, nesejde vlastně na tom, co udělám já.",
-      "category": "Present Fatalistic",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 15,
       "text": "Mám rád povídání o tom, jaké to bylo za „starých dobrých časů“",
-      "category": "Past Positive",
+      "category": "Pozitivní minulost",
       "reversed": false
     },
     {
       "id": 16,
       "text": "V mysli se mi opakují staré bolestné prožitky.",
-      "category": "Past Negative",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 17,
       "text": "Pokouším se žít svůj život den za dnem (bez velkého přemýšlení o budoucnosti) a naplno.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 18,
       "text": "Zneklidňuje mne, když jdu někam pozdě.",
-      "category": "Present Work",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 19,
       "text": "Nejraději bych žil každý den, jako by to byl můj den poslední.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 20,
       "text": "Snadno mi mysl zaplaví vzpomínky na šťastné chvíle.",
-      "category": "Past Positive",
+      "category": "Pozitivní minulost",
       "reversed": false
     },
     {
       "id": 21,
       "text": "Své závazky vůči přátelům a úřadům plním včas.",
-      "category": "Present Work",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 22,
       "text": "V minulosti jsem si prožil svůj díl příkoří.",
-      "category": "Past Negative",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 23,
       "text": "Rozhoduji se bez přemýšlení, pod vlivem okamžiku.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 24,
       "text": "Beru každý den tak, jak přichází, místo abych se pokoušel ho naplánovat.",
-      "category": "Present Hedonistic",
+      "category": "Budoucnost",
       "reversed": true
     },
     {
       "id": 25,
       "text": "Minulost je spojena s příliš mnoha nepříjemnými vzpomínkami, na které raději nemyslím.",
-      "category": "Past Negative",
+      "category": "Pozitivní minulost",
       "reversed": true
     },
     {
       "id": 26,
       "text": "Pokládám za důležité vnést do svého života vzrušení.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 27,
       "text": "Přál bych si, aby bylo možné napravit chyby, které jsem udělal v minulosti.",
-      "category": "Past Negative",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 28,
       "text": "Připadá mi, že je důležitější mít radost z toho, co člověk dělá, než dokončit danou práci včas.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 29,
       "text": "S nostalgií vzpomínám na své dětství (jako by se mi po dětství stýskalo).",
-      "category": "Past Positive",
+      "category": "Pozitivní minulost",
       "reversed": false
     },
     {
       "id": 30,
       "text": "Než se k něčemu rozhodnu, zvažuji, zda se vynaložený čas a námaha vyplatí.",
-      "category": "Present Hedonistic",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 31,
       "text": "Riskování chrání můj život před nudou.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 32,
       "text": "Pro mne je důležitější si cestu životem užít než soustředit se jen na cíl.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 33,
       "text": "Věci málo kdy dopadly tak, jak jsem čekal.",
-      "category": "Present Fatalistic",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 34,
       "text": "Je pro mne těžké zapomenout na nepříjemnosti z mého mládí.",
-      "category": "Past Negative",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 35,
       "text": "Živelné potěšení z toho, co dělám, mizí, když musím myslet na cíle a důsledky své činnosti.",
-      "category": "Present Hedonistic",
-      "reversed": true
+      "category": "Fatalistická přítomnost",
+      "reversed": false
     },
     {
       "id": 36,
       "text": "I když se zrovna těším z přítomnosti, nutí mne to srovnávat s podobnými zážitky z minulosti.",
-      "category": "Future",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 37,
       "text": "Život je samá změna, a tak člověk může sotva plánovat budoucnost.",
-      "category": "Present Fatalistic",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 38,
       "text": "Má životní cesta je řízena silami, na které nemám vliv.",
-      "category": "Present Fatalistic",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 39,
       "text": "Nemá smysl si dělat starosti s budoucností, protože ji stejně nemohu nijak ovlivnit.",
-      "category": "Present Fatalistic",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 40,
       "text": "Díky soustavné práci plním úkoly včas.",
-      "category": "Present Work",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 41,
       "text": "Často se přistihnu, že prostě „vypnu“ pozornost, když někdo z rodiny mluví o tom, jak se věci měly dříve.",
-      "category": "Present Hedonistic",
+      "category": "Pozitivní minulost",
       "reversed": true
     },
     {
       "id": 42,
       "text": "Riskuji, abych dodal svému životu vzrušení.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 43,
       "text": "Dělávám si seznamy toho, co mám udělat.",
-      "category": "Present Work",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 44,
       "text": "Často spíše poslechnu hlas svého srdce než rozumu.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 45,
       "text": "Když vím, že je třeba udělat nějakou práci, jsem schopen odolat pokušením.",
-      "category": "Present Work",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 46,
       "text": "Nechávám se strhnout okamžitým vzrušením.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 47,
       "text": "Dnešní život je příliš složitý, dal bych přednost jednoduššímu životu, jako byl dříve.",
-      "category": "Past Positive",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 48,
       "text": "Mám raději přátele, kteří jsou spontánní (nenuceně přirození) než ty, jejichž chování lze předvídat.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 49,
       "text": "Mám rád rodinné tradice a pravidelně opakované rituály.",
-      "category": "Present Hedonistic",
+      "category": "Pozitivní minulost",
       "reversed": false
     },
     {
       "id": 50,
       "text": "Myslívám na ošklivé věci, které se mi přihodily v minulosti.",
-      "category": "Past Negative",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 51,
       "text": "Pracuji i na obtížných, nezajímavých úkolech, když mi dopomohou k úspěchu.",
-      "category": "Present Work",
+      "category": "Budoucnost",
       "reversed": false
     },
     {
       "id": 52,
       "text": "Je lepší utratit to, co vydělám, za současné radosti než šetřit na zajištění budoucnosti.",
-      "category": "Present Hedonistic",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 53,
       "text": "Šťastná náhoda často přinese lepší výsledek než tvrdá práce.",
-      "category": "Present Hedonistic",
+      "category": "Fatalistická přítomnost",
       "reversed": false
     },
     {
       "id": 54,
       "text": "Myslím na příležitosti, o které jsem v životě přišel.",
-      "category": "Past Negative",
+      "category": "Negativní minulost",
       "reversed": false
     },
     {
       "id": 55,
       "text": "Mám rád, když jsou mé důvěrné vztahy naplněny silným citem a vřelostí.",
-      "category": "Present Hedonistic",
+      "category": "Hedonistická přítomnost",
       "reversed": false
     },
     {
       "id": 56,
       "text": "Vždycky se najde čas na to, abych v práci dohonil co jsem zameškal.",
-      "category": "Present Hedonistic",
+      "category": "Budoucnost",
       "reversed": true
     }
   ]
